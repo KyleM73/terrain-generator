@@ -1,0 +1,9 @@
+results/
+mesh_cache
+*.pyc
+*.pkl
+*.obj
+*.stl
+*.json
+
+terrain_generator.egg-info
