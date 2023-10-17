@@ -1,6 +1,8 @@
-name: wfc
+name: 
+  - wfc
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=5.1=1_gnu
@@ -60,4 +62,3 @@ dependencies:
     - urllib3==1.26.13
     - virtualenv==20.17.1
     - xxhash==3.2.0
-prefix: /home/takahiro/anaconda3/envs/wfc
